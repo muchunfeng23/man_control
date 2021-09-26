@@ -1,4 +1,6 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- [Part I](part-one.md)
+    - [Writing is nice](writing.md)
+    - [GitBook is nice](gitbook.md)
+- [Part II](part-two.md)
+    - [We love feedback](feedback_please.md)
+    - [Better tools for authors](better_tools.md)
